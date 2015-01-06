@@ -65,12 +65,12 @@ Esta opción está disponible para todos los parámetros a evaluar. Una vez que 
 
 .. figure:: ../../_static/OptionQualify/optionQualify_edit_view_1.png 
     :align: center
-    :alt: Selector de número de aporte
+    :alt: Selector de número y fecha de aporte
     :figclass: align-center
 
-    **Selector de número de aporte**
+    **Selector de número y fecha de aporte**
 
-Una vez seleccionado el número del parámetro se procede a la respectiva edición
+Una vez recupera la información se procede a la respectiva edición
 
 .. _optionQualify-img-optionQualify_edit_view_2:
 
@@ -84,7 +84,7 @@ Una vez seleccionado el número del parámetro se procede a la respectiva edici�
 Para guardar o eliminar el registro basta con hacer clic en los botones de la parte inferior.
 
 .. note::
-	Solo es posible eliminar el último registro ingresado para evitar posibles eliminaciones por error.
+	Solo es posible eliminar el último registro ingresado para evitar borrar datos por error.
 
 
 .. _optionQualify-partial-average:

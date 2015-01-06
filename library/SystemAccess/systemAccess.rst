@@ -9,7 +9,7 @@ Acceso al sistema
 Acceso Inicial
 ==============
 
-El ingreso al sitio de administración se lo realiza mediante la URL:  ``http://``. El docente se debe logear ingresando su cédula y su contraseña en cada casilla correspondiente:
+Para ingresar al sistema el docente debe especificar su cédula y su contraseña en las casillas correspondiente como se aprecia en la imagen:
 
 .. _systemAccess-img-sistemAccess_login:
 

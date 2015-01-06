@@ -34,7 +34,7 @@ Para obtener la información buscada se debe empezar de arriba hacia abajo. Los 
 
 	• **Materia.-** Finalmente la materia que imparte el docente. Toda esta información referente a los distintos parámetros seleccionados queda almacenada en base de datos por lo que este proceso únicamente se realiza una vez por cada materia nueva.
 
-Cabe resaltar que la información se recupera directamente del SGA por lo que en caso de no haber información actualizada en la base de datos del SGA, se puede presentar un error informando al usuario sobre el problema como se presenta a continuación:
+La información se recupera directamente del SGA por lo que en caso de no haber información actualizada con relación a materias o paralelos asignados al docente en el periodo actual, se puede presentar un error informando al usuario sobre el problema como se aprecia a continuación:
 
 .. _addMatter-img-addMatter_error:
 
