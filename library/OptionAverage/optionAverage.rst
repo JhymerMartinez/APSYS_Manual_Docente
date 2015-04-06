@@ -37,3 +37,30 @@ En este apartado se presenta información sobre la oferta académica, carrera, m
     :figclass: align-center
 
     **Información general**
+
+.. _optionAverage-reports:
+
+Generación de reportes
+======================
+
+Existe la opción de generar reportes de las calificaciones finales de los estudiantes a fin de tener un respaldo físico. El formato del documento generado es pdf y basta con hacer clic en el icono ubicado en la parte superior de la tabla de calificaciones:
+
+.. _optionAverage-img-optionAverage_option_pdf:
+
+.. figure:: ../../_static/OptionAverage/optionAverage_option_pdf.png 
+    :align: center
+    :alt: Botón para generar reporte
+    :figclass: align-center
+
+    **Botón para generar reporte**
+
+Una vez hecho esto se descarga el documento al equipo estado listo para cualquier tipo de tarea necesaria.
+
+.. _optionAverage-img-optionAverage_download:
+
+.. figure:: ../../_static/OptionAverage/optionAverage_download.png 
+    :align: center
+    :alt: Descarga del documento
+    :figclass: align-center
+
+    **Descarga del documento**
